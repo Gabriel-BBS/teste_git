@@ -1,3 +1,8 @@
-Primeiro vai ser criar o documento
-mudança no arquivo main a partir da branch
-eu quero testar o add
+HABILIDADES QUE APRENDI
+- baixar atualizações do repositório remoto para o local - git pull ou git fetch + git merge
+- enviar atualizações do meu repositório local para o remoto - git push (caso aconteça um erro, o arquivo do repositório remote não está igual ao da sua máquina local)
+- aprendi mais sobre git merge
+- sincronizar repo local com o remoto
+
+O QUE GOSTARIA DE APRENDER
+- como rejeita ou aceitar alterações locais
