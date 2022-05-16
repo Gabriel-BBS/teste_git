@@ -6,3 +6,4 @@ HABILIDADES QUE APRENDI
 
 O QUE GOSTARIA DE APRENDER
 - como rejeita ou aceitar alterações locais
+- retornar para um commit passado
