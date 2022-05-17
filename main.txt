@@ -1,9 +1,11 @@
 HABILIDADES QUE APRENDI
 - baixar atualizações do repositório remoto para o local - git pull ou git fetch + git merge
-- enviar atualizações do meu repositório local para o remoto - git push (caso aconteça um erro, o arquivo do repositório remote não está igual ao da sua máquina local)
-- comando pull de um repo remoto para um local = git pull -u origin/<remote branch name> <branch local>
+- git fetch é mais seguro por ele baixa mas não altera o repositorio local
+- enviar atualizações do meu repositório local para o remoto - git push <remote name> <branch name>
+(caso aconteça um erro, o arquivo do repositório remote não está igual ao da sua máquina local) --ATENÇÃO
+- comando pull de um repo remoto para um local = git pull origin <remote branch name>
 - deletar uma branch remota = git push -d origin <branch name>
+- como rejeita ou aceitar alterações locais = VScode pergunta 
 
 O QUE GOSTARIA DE APRENDER
-- como rejeita ou aceitar alterações locais
 - retornar para um commit passado
